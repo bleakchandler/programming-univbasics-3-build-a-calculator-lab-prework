@@ -1,7 +1,12 @@
 def addition(num1, num2)
+<<<<<<< HEAD
   num1 = 5
   num2 = 4
   sum = (num1+num2)
+=======
+  sum = (num1+num2)
+  addition(5,4)
+>>>>>>> 4455bfa5341eedcf826acab9b5cf2457e71d9813
   return sum
 end
 
@@ -40,3 +45,9 @@ def square_root(num)
 end
 
 
+<<<<<<< HEAD
+=======
+end
+
+
+>>>>>>> 4455bfa5341eedcf826acab9b5cf2457e71d9813
